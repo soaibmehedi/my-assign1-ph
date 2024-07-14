@@ -1,0 +1,55 @@
+
+
+.all font style{
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 800px;
+  font-style: normal;
+
+}
+  
+.name-text{
+  color:#0D1321;
+  font-weight: 800px;
+  
+  
+}
+nav ul li{
+  list-style: none;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 40px;
+  
+}
+nav ul{
+  align-items: center;
+}
+.cover{
+  background-image: url("../assets/Hero-bg.png");
+   height: 600px;
+   width: 1400px;
+   
+}
+.btn-contact{
+  background-color: #0D1321;
+  color: #FFFFFF;
+  font-weight: bold;
+  width: 250px;
+  height: 66px;
+  border-radius: 8px;
+}
+.cover-content{
+  text-align: center;
+  padding-top: 400px;
+  
+}
+.carton-add{
+  background-image: url(../B10A1-Challenge-Begins/assets/Group.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  
+  
+}
+
