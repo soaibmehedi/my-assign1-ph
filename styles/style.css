@@ -10,7 +10,11 @@
   
 .name-text{
   color:#0D1321;
-  font-weight: 800px;
+  font-size: 20px;
+  font-weight: bold;
+  width: 220px;
+  height: 55px;
+  border-radius: 8px;
   
   
 }
@@ -49,7 +53,9 @@ nav ul{
   background-image: url(../B10A1-Challenge-Begins/assets/Group.png);
   background-repeat: no-repeat;
   background-position: center;
-  
-  
+}
+.web style{
+  font-weight: 900px;
+  background-color: red;
 }
 
